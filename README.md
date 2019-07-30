@@ -1,4 +1,4 @@
-# Legalies
+# Tl;dr
 https://tlng-dr.herokuapp.com/
 
 # Inspiration
@@ -8,7 +8,7 @@ We've all seen it: huge blocks of dense text that pop up before you install a ne
 
 # What It Does
 
-Our application, Lega-lies, finds the most notable sections of such a legal document — namely, sections which seem unusual and do not align with typical EULAs — and compiles them into a brief summary. It is a Chrome Extension that users can use directly from their browser when they encounter one of these legal documents. A user would highlight the text they wish to be summarized and would subsequently see a brief summary that lists the most noteworthy parts of the document. 
+Our application, Tl;dr, finds the most notable sections of such a legal document — namely, sections which seem unusual and do not align with typical EULAs — and compiles them into a brief summary. It is a Chrome Extension that users can use directly from their browser when they encounter one of these legal documents. A user would highlight the text they wish to be summarized and would subsequently see a brief summary that lists the most noteworthy parts of the document. 
 
 # How It Works
 
