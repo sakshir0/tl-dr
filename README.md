@@ -1,5 +1,4 @@
 # Tl;dr
-https://tlng-dr.herokuapp.com/
 
 ## Inspiration ##
 We've all seen it: huge blocks of dense text that pop up before you install a new piece of software or sign up for a new service. These days, End User License Agreements are everywhere but most of the time are too long and full of jargon for consumers to feasibly read. We wanted to create something that would help consumers stay informed on what they are agreeing to and how their data is being used by companies. Users cannot reasonably be expected to read dozens of pages of text for every product they use, but we hope to help prevent people from inadvertently agreeing to dubious privacy violations and signing away their rights.
