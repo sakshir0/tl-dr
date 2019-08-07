@@ -29,3 +29,6 @@ Highlight your target text, right-click and select "Simplify" in the context men
 - [Natural Language Toolkit (NLTK)](https://www.nltk.org/index.html)
 - [scikit learn](https://scikit-learn.org/stable/documentation.html)
 - [Gunicorn](http://docs.gunicorn.org/en/stable/index.html)
+
+## Video Demo ##
+https://www.youtube.com/watch?v=kGdt8JxDQuA
